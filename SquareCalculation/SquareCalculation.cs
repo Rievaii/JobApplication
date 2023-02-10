@@ -39,21 +39,10 @@
 
     public class Figure
     {
-        private double Param1 { get; set; }
-        
-        private double Param2 { get; set; }
+        interface IFigure
+        {
+            double Square { get; set; }
+        }
 
-        private double Param3 { get; set; }
-
-        ////for circle
-        //public Figure(double Param) => Param1 = Param;
-        
-        ////for triangle
-        //public Figure(double Param1, double Param2, double Param3)
-        //{
-        //    this.Param1 = Param1;
-        //    this.Param2 = Param2;
-        //    this.Param3 = Param3;
-        //}
     }
 }

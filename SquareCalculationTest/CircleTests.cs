@@ -31,8 +31,5 @@ namespace SquareCalculation.Tests
             //Assert
             Assert.AreEqual(Result, Math.Round(Actual));
         }
-
-
-        
     }
 }
