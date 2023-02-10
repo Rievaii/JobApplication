@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\SquareCalculation\SquareCalculation\bin\Debug\net6.0\SquareCalculationLib.deps.json
+C:\Users\Admin\source\repos\SquareCalculation\SquareCalculation\bin\Debug\net6.0\SquareCalculationLib.dll
+C:\Users\Admin\source\repos\SquareCalculation\SquareCalculation\bin\Debug\net6.0\SquareCalculationLib.pdb
+C:\Users\Admin\source\repos\SquareCalculation\SquareCalculation\obj\Debug\net6.0\SquareCalculationLib.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SquareCalculation\SquareCalculation\obj\Debug\net6.0\SquareCalculationLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\SquareCalculation\SquareCalculation\obj\Debug\net6.0\SquareCalculationLib.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SquareCalculation\SquareCalculation\obj\Debug\net6.0\SquareCalculationLib.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SquareCalculation\SquareCalculation\obj\Debug\net6.0\SquareCalculationLib.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SquareCalculation\SquareCalculation\obj\Debug\net6.0\SquareCalculationLib.dll
+C:\Users\Admin\source\repos\SquareCalculation\SquareCalculation\obj\Debug\net6.0\refint\SquareCalculationLib.dll
+C:\Users\Admin\source\repos\SquareCalculation\SquareCalculation\obj\Debug\net6.0\SquareCalculationLib.pdb
+C:\Users\Admin\source\repos\SquareCalculation\SquareCalculation\obj\Debug\net6.0\ref\SquareCalculationLib.dll
